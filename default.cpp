@@ -5,9 +5,9 @@ void solve() {
     // Your core logic goes here
     int n;
     cin >> n;
-    vector<int> arr(n);
+    vector<long long> a(n);
     for (int i = 0; i < n; ++i) {
-        cin >> arr[i];
+        cin >> a[i];
     }
     
 }
